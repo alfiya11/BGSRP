@@ -1,5 +1,6 @@
 # BGSRP
 Exploring the Foundations of Quantum Computing: An Introductory Study
+
 During my internship, I had the
 opportunity to explore the fundamental ideas and principles underlying this
 quantum computing research.

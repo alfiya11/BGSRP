@@ -1,4 +1,4 @@
-# BGSRP
+# BGSRP'24
 Exploring the Foundations of Quantum Computing: An Introductory Study
 
 During my internship, I had the

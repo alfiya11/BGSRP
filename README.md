@@ -1,4 +1,4 @@
-# BGSRP'24
+# Alfiya's Quantum Work!
 Exploring the Foundations of Quantum Computing: An Introductory Study
 
 During my internship, I had the
